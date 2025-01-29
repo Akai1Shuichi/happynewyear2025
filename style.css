@@ -257,14 +257,3 @@ body {
   background: rgba(0, 0, 0, 0.5);
 }
 
-.tiktok-logo {
-  position: fixed;
-  bottom: 15px;
-  left: 15px;
-  z-index: 1000;
-}
-
-.tiktok-logo img {
-  width: 35px;
-  height: auto;
-}
