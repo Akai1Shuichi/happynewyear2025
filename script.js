@@ -62,25 +62,25 @@ document.addEventListener('DOMContentLoaded', () => {
 function handleClickLixi() {
   // Mảng chứa message cho chúc mừng
   const chucMungMessages = [
-    '🎉 Chúc mừng năm mới! Chúc bạn một năm tràn đầy niềm vui, sức khỏe dồi dào và thành công vượt bậc! 🎆',
-    '🌸 Tết đến xuân về, chúc bạn vạn sự như ý, mọi khó khăn đều qua đi, chỉ còn lại niềm vui và hạnh phúc! 🌟',
-    '💰 Chúc bạn năm mới an khang thịnh vượng, gia đình ấm no, và luôn gặp may mắn trên mọi nẻo đường! 🍀',
-    '❤️ Năm mới, chúc bạn đón nhận thật nhiều yêu thương, hạnh phúc ngập tràn và sức khỏe mãi vững bền! 🌈',
-    '🌟 Chúc bạn một năm mới thật rực rỡ, mọi dự định đều thành công, và những khoảnh khắc tuyệt vời luôn bên bạn! 🎊',
-    '🎁 Chúc bạn năm mới phát tài phát lộc, mọi công việc đều thuận lợi, gia đình hạnh phúc và vui vẻ! 🏡',
+    '🎉 Chúc mừng năm mới! Chúc mấy chú em non nớt một năm tràn đầy niềm vui, sức khỏe dồi dào và thành công vượt bậc! 🎆',
+    '🌸 Tết đến xuân về, chúc mấy chú em non nớt vạn sự như ý, mọi khó khăn đều qua đi, chỉ còn lại niềm vui và hạnh phúc! 🌟',
+    '💰 Chúc mấy chú em non nớt năm mới an khang thịnh vượng, gia đình ấm no, và luôn gặp may mắn trên mọi nẻo đường! 🍀',
+    '❤️ Năm mới, chúc mấy chú em non nớt đón nhận thật nhiều yêu thương, hạnh phúc ngập tràn và sức khỏe mãi vững bền! 🌈',
+    '🌟 Chúc mấy chú em non nớt một năm mới thật rực rỡ, mọi dự định đều thành công, và những khoảnh khắc tuyệt vời luôn bên mấy chú em non nớt! 🎊',
+    '🎁 Chúc mấy chú em non nớt năm mới phát tài phát lộc, mọi công việc đều thuận lợi, gia đình hạnh phúc và vui vẻ! 🏡',
   ];
 
   // Mảng chứa message cho bao lì xì
   const lixiMessages = [
-    'Mình xin lì xì 💲',
-    'Xin 10k nhé 💵',
-    'Xin 20k nhé 💶',
-    'Xin 30k nhé 💷',
-    'Xin 50k nhé 💸',
+    'mấy chú em non nớt lì xì cho ah 💲',
+    'mấy chú em non nớt lì xì 100k  💵',
+    'mấy chú em non nớt lì xì 80k  💶',
+    'mấy chú em non nớt lì xì 20k  💷',
+    'mấy chú em non nớt lì xì 50k   💸',
   ];
 
   // file qr
-  const filePathQR = './assets/qr/qr.jpg';
+  const filePathQR = './assets/qr/tải xuống (2).jpg';
   // có qr hay không
   const showQR = true;
 
